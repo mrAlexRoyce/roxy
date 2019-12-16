@@ -1,6 +1,6 @@
 {
   "settings": {
-    "name": "Rox Crypto Index",
+    "name": "ROX Capital – bring trustless and safety to market. ",
     "currentPage": "index.html",
     "theme": {
       "name": "mobirise4",
@@ -45,7 +45,7 @@
     "versionPublish": "4.10.4",
     "screenshot": "screenshot.png",
     "snow": "",
-    "favicon": "@PROJECT_PATH@/assets/images/fav-121x121.png",
+    "favicon": "@PROJECT_PATH@/assets/images/logo-128x128.png",
     "noImageResize": "",
     "google-analytics": "",
     "cookiesAlert": "",
@@ -60,7 +60,7 @@
         "main": true,
         "title": "Home",
         "meta_descr": "",
-        "header_custom": "<meta name=\"yandex-verification\" content=\"82c4982b5a9cd9ec\" />",
+        "header_custom": "",
         "footer_custom": "",
         "html_before": ""
       },
